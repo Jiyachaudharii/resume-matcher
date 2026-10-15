@@ -37,7 +37,7 @@ An NLP-powered tool that scores how well your resume matches a job description â
 
 ## How to run locally
 ```bash
-git clone https://github.com/Jiya4405/resume-matcher.git
+git clone https://github.com/Jiyachaudharii/resume-matcher.git
 cd resume-matcher
 pip install -r requirements.txt
 streamlit run app.py

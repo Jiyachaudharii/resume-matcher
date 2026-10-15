@@ -77,4 +77,4 @@ if st.button("🔍 Analyse Match", type="primary", use_container_width=True):
             st.markdown(f'<div class="tip-box">{tip}</div>', unsafe_allow_html=True)
 
 st.divider()
-st.markdown("<div style='text-align:center;color:#aaa;font-size:12px;'>Built by Jiya Chaudhari · <a href='https://github.com/Jiya4405' style='color:#ec4899'>GitHub</a></div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align:center;color:#aaa;font-size:12px;'>Built by Jiya Chaudhari · <a href='https://github.com/Jiyachaudharii' style='color:#ec4899'>GitHub</a></div>", unsafe_allow_html=True)
